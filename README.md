@@ -23,7 +23,7 @@
 
 ## 2. Live Demo
 
-- For the full course, You can refer to this [link](https://codecourses.site/react/how-to-learn-react-higher-order-components-ep-1/).
+- For the full course, You can refer to this [link](https://codecourses.site/react/how-to-learn-react-hoc-ep-1/).
 
 - You can refer to this [Youtube video](https://youtu.be/u9Ucya0GU3w) for the live demo.
 
