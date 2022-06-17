@@ -1,5 +1,5 @@
-import Greeting from "./component/Greeting";
-import withModal from "./component/Modal";
+import Greeting from "./components/Greeting";
+import withModal from "./components/Modal";
 
 const App = ({ toggleModal }) => {
   return (
